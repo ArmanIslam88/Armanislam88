@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Mohammed Arman Islam</h1>
 <h3 align="center">This is Mohammed Arman Islam.I'm a self-taught, passionate, fast-learner and energetic. I am eager to work with new technologies.</h3>
 
-<p align="Centre"> <img src="https://komarev.com/ghpvc/?username=armanislam88&label=Profile%20views&color=0e75b6&style=flat" alt="armanislam88" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=armanislam88&label=Profile%20views&color=0e75b6&style=flat" alt="armanislam88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanislam88" alt="armanislam88" /></a> </p>
 
